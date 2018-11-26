@@ -1,0 +1,11 @@
+/home/bigboy/src/C_sharp/Gameoflife/bin/Debug/netcoreapp2.1/Gameoflife.deps.json
+/home/bigboy/src/C_sharp/Gameoflife/bin/Debug/netcoreapp2.1/Gameoflife.runtimeconfig.json
+/home/bigboy/src/C_sharp/Gameoflife/bin/Debug/netcoreapp2.1/Gameoflife.runtimeconfig.dev.json
+/home/bigboy/src/C_sharp/Gameoflife/bin/Debug/netcoreapp2.1/Gameoflife.dll
+/home/bigboy/src/C_sharp/Gameoflife/bin/Debug/netcoreapp2.1/Gameoflife.pdb
+/home/bigboy/src/C_sharp/Gameoflife/obj/Debug/netcoreapp2.1/Gameoflife.csprojAssemblyReference.cache
+/home/bigboy/src/C_sharp/Gameoflife/obj/Debug/netcoreapp2.1/Gameoflife.csproj.CoreCompileInputs.cache
+/home/bigboy/src/C_sharp/Gameoflife/obj/Debug/netcoreapp2.1/Gameoflife.AssemblyInfoInputs.cache
+/home/bigboy/src/C_sharp/Gameoflife/obj/Debug/netcoreapp2.1/Gameoflife.AssemblyInfo.cs
+/home/bigboy/src/C_sharp/Gameoflife/obj/Debug/netcoreapp2.1/Gameoflife.dll
+/home/bigboy/src/C_sharp/Gameoflife/obj/Debug/netcoreapp2.1/Gameoflife.pdb
